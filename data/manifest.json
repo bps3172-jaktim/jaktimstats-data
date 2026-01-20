@@ -1,0 +1,13 @@
+{
+  "app": "JaktimStats",
+  "data_version": "3.0.0",
+  "updated_at": "2026-01-20",
+  "themes": [
+    { "key": "kependudukan", "title": "Kependudukan", "file": "kependudukan.json" },
+    { "key": "ipm", "title": "Indeks Pembangunan Manusia", "file": "indeks_pembangunan_manusia.json" },
+    { "key": "ketenagakerjaan", "title": "Ketenagakerjaan", "file": "ketenagakerjaan.json" },
+    { "key": "kemiskinan", "title": "Kemiskinan", "file": "kemiskinan.json" },
+    { "key": "inflasi", "title": "Inflasi", "file": "inflasi.json" },
+    { "key": "pdrb", "title": "PDRB", "file": "pdrb.json" }
+  ]
+}
