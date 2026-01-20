@@ -1,6 +1,2023 @@
 {
   "theme": "PDRB",
   "period_type": "yearly",
-  "series": [],
+  "series": [
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 2023.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 2024.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 6.28
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 6.13
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 5.89
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 6.14
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 5.5
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 6.15
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 6.25
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 4.47
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 4.77
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 5.15
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 4.49
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 0.13
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 0.13
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 0.12
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 0.11
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 0.1
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 0.1
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 0.1
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 0.09
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 0.08
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 0.08
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 0.08
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 0.08
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 0.08
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 0.07
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 0.07
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 32.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 31.36
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 31.17
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 30.77
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 30.24
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 30.28
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 29.68
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 29.62
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 28.86
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 27.54
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 26.61
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 28.24
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 28.38
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 27.25
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 26.73
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 0.56
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 0.69
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 0.74
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 0.65
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 0.62
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 0.58
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 0.54
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 0.58
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 0.67
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 0.72
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 0.66
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 0.5
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 0.44
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 0.35
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 0.24
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 0.08
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 0.07
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 0.07
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 0.06
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 0.06
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 0.06
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 0.05
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 0.05
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 0.05
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 0.05
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 0.05
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 0.05
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 0.05
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 0.05
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 0.05
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 12.77
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 12.74
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 12.86
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 12.8
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 12.29
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 11.4
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 11.25
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 11.15
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 10.92
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 10.81
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 10.61
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 10.48
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 10.24
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 10.34
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 16.22
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 16.35
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 16.39
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 16.62
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 15.9
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 15.83
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 15.94
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 16.32
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 16.86
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 16.9
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 16.9
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 17.56
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 17.77
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 18.21
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 3.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 2.98
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 2.96
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 3.19
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 4.31
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 4.97
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 6.3
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 6.38
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 6.44
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 5.2
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 5.15
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 6.7
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 6.82
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 4.62
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 4.69
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 4.78
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 4.82
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 4.84
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 4.77
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 4.67
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 4.57
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 4.46
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 4.57
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 4.21
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 4.38
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 4.52
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 4.7
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 4.89
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 4.39
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 4.32
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 4.42
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 4.41
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 4.22
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 4.14
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 4.39
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 4.53
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 4.78
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 5.61
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 5.57
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 5.53
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 5.56
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 5.57
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 1.59
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 1.53
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 1.62
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 1.64
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 1.55
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 1.57
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 1.59
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 1.61
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 1.57
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 1.62
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 1.78
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 1.73
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 1.71
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 1.7
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 1.7
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 5.52
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 5.43
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 5.32
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 5.18
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 4.96
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 4.94
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 4.88
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 4.87
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 5.29
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 4.86
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 4.67
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 4.53
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 4.4
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 4.41
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 4.43
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 4.51
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 4.53
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 4.64
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 4.77
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 5.28
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 5.7
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 5.99
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 5.69
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 5.69
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 5.85
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 5.85
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 4.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 4.6
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 4.64
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 4.4
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 4.29
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 4.25
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 4.19
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 3.79
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 3.72
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 3.5
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 3.29
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 3.26
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 6.88
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 6.77
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 6.84
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 6.88
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 7.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 7.38
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 7.68
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 7.25
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 7.13
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 7.55
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 7.17
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 6.68
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 6.2
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 6.13
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 1.53
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 1.55
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 1.6
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 1.64
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 1.64
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 1.65
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 1.69
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 1.7
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 1.73
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 1.74
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 2.22
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 2.25
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 2.3
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 2.29
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 2.29
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 2.32
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 2.39
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 2.41
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 2.54
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 2.57
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 2.64
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 2.7
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 2.83
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 2.88
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 2.81
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 3.31
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 3.32
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 100.0
+    }
+  ],
   "notes": []
 }

@@ -1,6 +1,383 @@
 {
   "theme": "Ketenagakerjaan",
   "period_type": "yearly",
-  "series": [],
+  "series": [
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 10.95
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 10.39
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 8.99
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 8.72
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 9.13
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 7.8
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 7.13
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 6.35
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 9.29
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 8.23
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 8.39
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 7.24
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 6.95
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 6.78
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 65.13
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 69.85
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 64.57
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 64.9
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 64.83
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 64.55
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 58.9
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 61.77
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 64.88
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 61.98
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 60.85
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 61.26
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 65.11
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 64.49
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 64.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Penduduk Usia Kerja (PUK)",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 2265063.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Penduduk Usia Kerja (PUK)",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 2387325.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Penduduk Usia Kerja (PUK)",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 2401367.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Penduduk Usia Kerja (PUK)",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 2425000.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 1387533.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 1554276.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 1548679.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "- Bekerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 1271123.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "- Bekerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 1441786.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "- Bekerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 1441119.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "- Bekerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 1446879.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "- Pengangguran",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 116.41
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "- Pengangguran",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 112.49
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "- Pengangguran",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 107.56
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "- Pengangguran",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 105.16
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Bukan Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 877.53
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Bukan Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 833.049
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Bukan Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 852.688
+    }
+  ],
   "notes": []
 }

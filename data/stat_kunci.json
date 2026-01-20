@@ -1,6 +1,1887 @@
 {
   "theme": "Stat_Kunci",
   "period_type": "yearly",
-  "series": [],
+  "series": [
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 1430.6
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 1204.3
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 2634.9
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 78.06
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 73.89
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 12.11
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 10.78
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 14960.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 13.03
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 65.13
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 91.6
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 3.4
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 325980.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2010,
+      "value": 6.21
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 1432.4
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 1207.7
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 2640.1
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 78.82
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 73.92
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 12.28
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 10.93
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 15563.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 10.95
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 69.85
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 83.82
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 3.06
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 352614.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 6.28
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2011,
+      "value": 3.97
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 1409.3
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 1328.7
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 2738.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 79.52
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 73.95
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 12.45
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 11.08
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 16101.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 10.39
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 64.57
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 86.5
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 3.12
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 366674.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 6.13
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 4.52
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 1443.2
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 1389.3
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 2832.5
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 79.88
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 73.98
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 12.63
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 11.18
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 16181.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 8.99
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 64.9
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 86.8
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 3.1
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 381984.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 5.89
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 8.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 1424.6
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 1393.4
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 2818.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 80.4
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 74.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 13.06
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 11.21
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 16248.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 8.72
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 64.83
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 96.54
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 3.12
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 391205.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 6.14
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 8.95
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 1436.1
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 1407.7
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 2843.8
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 80.73
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 74.1
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 13.08
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 11.32
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 16455.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 9.13
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 64.55
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 91.44
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 3.1
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 412515.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 5.5
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 3.3
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 1447.3
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 1421.6
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 2868.9
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 81.3
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 74.2
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 13.2
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 11.52
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 16733.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 91.37
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 3.19
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 433405.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 6.15
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2016,
+      "value": 2.37
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 1457.9
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 1434.9
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 2892.8
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 81.61
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 74.18
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 13.26
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 11.6
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 17007.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 7.8
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 58.9
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 95.67
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 3.31
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 455584.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 6.25
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2017,
+      "value": 3.72
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 1468.1
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 1447.9
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 2916.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 82.06
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 74.27
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 13.43
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 11.64
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 17339.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 7.13
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 61.77
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 91.38
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 3.14
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 502152.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 6.1
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2018,
+      "value": 3.27
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 1477.5
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 1460.4
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 2937.9
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 82.69
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 74.37
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 13.82
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 11.65
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 17662.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 6.35
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 64.88
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 91.51
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 3.12
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 539510.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 5.03
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 3.23
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 1529.7
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 1507.5
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 3037.1
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 82.84
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 74.82
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 13.86
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 11.66
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 17438.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 9.29
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 61.98
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 122.73
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 4.16
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 581954.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 4.47
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 1.59
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 1535.4
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 1516.5
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 3051.9
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 83.14
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 74.88
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 13.96
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 11.67
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 17733.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 8.23
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 60.85
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 125.37
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 4.28
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 594849.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 4.77
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 1.53
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 1549.8
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 1525.3
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 3075.1
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 83.6
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 75.12
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 13.97
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 11.73
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 18199.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 8.39
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 61.26
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 126.63
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 4.3
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 630842.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 5.02
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2022,
+      "value": 4.21
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 1545.8
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 1533.8
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 3079.6
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 84.26
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 75.37
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 14.06
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 11.88
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 18712.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 7.24
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 65.11
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 124.22
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 4.2
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 669.713
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 5.15
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2023,
+      "value": 2.28
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 1547.13
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 1538.88
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 3086.01
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 84.76
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 75.59
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 14.07
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 11.99
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 19193.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 6.95
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 64.49
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 121.52
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 4.09
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 697472.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laju Pertumbuhan Ekonomi",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 4.49
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Inflasi Tahunan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 1.48
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Laki-Laki",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 1544.64
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Perempuan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 1540.42
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Jumlah Penduduk",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 3085.06
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "IPM",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 85.51
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "UHH",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 75.93
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "HLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 14.32
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "RLS",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 12.01
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "PPP",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 19824.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPT",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 6.78
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "TPAK",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 64.0
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Penduduk Miskin",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 117.4
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Angka Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 3.94
+    },
+    {
+      "theme": "Stat_Kunci",
+      "indicator": "Garis Kemiskinan",
+      "unit": "",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 720813.0
+    }
+  ],
   "notes": []
 }
