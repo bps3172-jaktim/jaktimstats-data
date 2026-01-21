@@ -1,0 +1,216 @@
+{
+  "app": "JaktimStats",
+  "data_version": "3.0.0",
+  "updated_at": "2026-01-21",
+  "items": [
+    {
+      "term": "Jumlah Penduduk",
+      "category": "Kependudukan",
+      "definition": "Banyaknya penduduk yang berdomisili di suatu wilayah pada waktu tertentu (umumnya dinyatakan dalam jiwa).",
+      "source": "BPS"
+    },
+    {
+      "term": "Laju Pertumbuhan Penduduk (LPP)",
+      "category": "Kependudukan",
+      "definition": "Tingkat pertambahan jumlah penduduk per tahun dalam jangka waktu tertentu, dinyatakan dalam persentase. Umumnya dihitung dari perubahan jumlah penduduk antarperiode.",
+      "source": "BPS"
+    },
+    {
+      "term": "Kepadatan Penduduk",
+      "category": "Kependudukan",
+      "definition": "Rata-rata jumlah penduduk per satuan luas wilayah tertentu (jiwa per km²).",
+      "source": "BPS"
+    },
+    {
+      "term": "Rasio Jenis Kelamin",
+      "category": "Kependudukan",
+      "definition": "Perbandingan banyaknya penduduk laki-laki terhadap penduduk perempuan, biasanya dinyatakan per 100 penduduk perempuan.",
+      "source": "BPS"
+    },
+    {
+      "term": "Angka Beban Ketergantungan (Dependency Ratio)",
+      "category": "Kependudukan",
+      "definition": "Perbandingan penduduk usia nonproduktif (umumnya 0–14 tahun dan 65+ tahun) terhadap penduduk usia produktif (15–64 tahun), biasanya dinyatakan per 100 penduduk usia produktif.",
+      "source": "BPS"
+    },
+
+    {
+      "term": "Indeks Pembangunan Manusia (IPM)",
+      "category": "IPM",
+      "definition": "Indeks komposit untuk mengukur capaian pembangunan manusia dari tiga dimensi dasar: umur panjang dan hidup sehat, pengetahuan, dan standar hidup layak. Nilai IPM berada pada skala 0–100.",
+      "source": "BPS"
+    },
+    {
+      "term": "Umur Harapan Hidup saat Lahir (UHH/AHH)",
+      "category": "IPM",
+      "definition": "Rata-rata perkiraan banyak tahun yang dapat ditempuh oleh seseorang sejak lahir. Digunakan sebagai indikator kesehatan dalam penyusunan IPM.",
+      "source": "BPS"
+    },
+    {
+      "term": "Harapan Lama Sekolah (HLS)",
+      "category": "IPM",
+      "definition": "Lamanya sekolah (dalam tahun) yang diharapkan akan dirasakan oleh anak pada umur tertentu di masa mendatang. Digunakan sebagai indikator pendidikan dalam penyusunan IPM.",
+      "source": "BPS"
+    },
+    {
+      "term": "Rata-rata Lama Sekolah (RLS)",
+      "category": "IPM",
+      "definition": "Jumlah tahun pendidikan formal yang telah dijalani oleh penduduk (umumnya umur 15 tahun ke atas). Digunakan sebagai indikator pendidikan dalam penyusunan IPM.",
+      "source": "BPS"
+    },
+    {
+      "term": "Pengeluaran Riil per Kapita Disesuaikan",
+      "category": "IPM",
+      "definition": "Ukuran standar hidup layak yang digunakan dalam IPM, menggambarkan kemampuan daya beli masyarakat setelah penyesuaian tertentu.",
+      "source": "BPS"
+    },
+
+    {
+      "term": "Penduduk Usia Kerja",
+      "category": "Ketenagakerjaan",
+      "definition": "Penduduk yang termasuk kelompok usia kerja (umumnya 15 tahun ke atas) yang menjadi dasar perhitungan indikator ketenagakerjaan.",
+      "source": "BPS"
+    },
+    {
+      "term": "Angkatan Kerja",
+      "category": "Ketenagakerjaan",
+      "definition": "Penduduk usia kerja yang bekerja atau pengangguran.",
+      "source": "BPS"
+    },
+    {
+      "term": "Bukan Angkatan Kerja",
+      "category": "Ketenagakerjaan",
+      "definition": "Penduduk usia kerja yang tidak bekerja dan tidak termasuk pengangguran, misalnya sekolah, mengurus rumah tangga, dan kegiatan lainnya.",
+      "source": "BPS"
+    },
+    {
+      "term": "Bekerja",
+      "category": "Ketenagakerjaan",
+      "definition": "Kegiatan melakukan pekerjaan untuk memperoleh atau membantu memperoleh penghasilan/keuntungan (mengacu konsep survei ketenagakerjaan).",
+      "source": "BPS"
+    },
+    {
+      "term": "Pengangguran",
+      "category": "Ketenagakerjaan",
+      "definition": "Penduduk yang tidak bekerja dan sedang mencari pekerjaan atau mempersiapkan usaha, atau sudah diterima bekerja tetapi belum mulai bekerja.",
+      "source": "BPS"
+    },
+    {
+      "term": "Tingkat Pengangguran Terbuka (TPT)",
+      "category": "Ketenagakerjaan",
+      "definition": "Persentase jumlah pengangguran terhadap jumlah angkatan kerja.",
+      "source": "BPS"
+    },
+    {
+      "term": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "category": "Ketenagakerjaan",
+      "definition": "Persentase jumlah angkatan kerja terhadap jumlah penduduk usia kerja.",
+      "source": "BPS"
+    },
+    {
+      "term": "Setengah Pengangguran",
+      "category": "Ketenagakerjaan",
+      "definition": "Penduduk bekerja dengan jam kerja di bawah jam kerja normal dan masih bersedia menerima pekerjaan tambahan.",
+      "source": "BPS"
+    },
+
+    {
+      "term": "Penduduk Miskin",
+      "category": "Kemiskinan",
+      "definition": "Penduduk yang memiliki rata-rata pengeluaran per kapita per bulan di bawah garis kemiskinan.",
+      "source": "BPS"
+    },
+    {
+      "term": "Garis Kemiskinan",
+      "category": "Kemiskinan",
+      "definition": "Nilai rupiah minimum untuk memenuhi kebutuhan dasar makanan dan bukan makanan. Penduduk dengan pengeluaran di bawah nilai ini dikategorikan miskin.",
+      "source": "BPS"
+    },
+    {
+      "term": "Persentase Penduduk Miskin (P0)",
+      "category": "Kemiskinan",
+      "definition": "Proporsi penduduk yang berada di bawah garis kemiskinan.",
+      "source": "BPS"
+    },
+    {
+      "term": "Jumlah Penduduk Miskin",
+      "category": "Kemiskinan",
+      "definition": "Banyaknya penduduk yang berada di bawah garis kemiskinan.",
+      "source": "BPS"
+    },
+    {
+      "term": "Indeks Kedalaman Kemiskinan (P1)",
+      "category": "Kemiskinan",
+      "definition": "Ukuran rata-rata kesenjangan pengeluaran penduduk miskin terhadap garis kemiskinan. Nilai lebih besar menunjukkan rata-rata penduduk miskin semakin jauh dari garis kemiskinan.",
+      "source": "BPS"
+    },
+    {
+      "term": "Indeks Keparahan Kemiskinan (P2)",
+      "category": "Kemiskinan",
+      "definition": "Ukuran ketimpangan pengeluaran di antara penduduk miskin. Nilai lebih besar menunjukkan ketimpangan pengeluaran di kelompok penduduk miskin semakin tinggi.",
+      "source": "BPS"
+    },
+
+    {
+      "term": "Indeks Harga Konsumen (IHK)",
+      "category": "Inflasi",
+      "definition": "Indeks yang mengukur rata-rata perubahan harga dari sekumpulan barang dan jasa yang dikonsumsi rumah tangga pada periode tertentu.",
+      "source": "BPS"
+    },
+    {
+      "term": "Inflasi",
+      "category": "Inflasi",
+      "definition": "Kenaikan persentase Indeks Harga Konsumen (IHK) pada suatu periode. Inflasi menunjukkan kenaikan harga secara umum.",
+      "source": "BPS"
+    },
+    {
+      "term": "Deflasi",
+      "category": "Inflasi",
+      "definition": "Penurunan persentase Indeks Harga Konsumen (IHK) pada suatu periode.",
+      "source": "BPS"
+    },
+    {
+      "term": "Inflasi Bulanan (m-to-m)",
+      "category": "Inflasi",
+      "definition": "Perubahan persentase IHK pada suatu bulan dibandingkan bulan sebelumnya.",
+      "source": "BPS"
+    },
+    {
+      "term": "Inflasi Tahunan (y-on-y)",
+      "category": "Inflasi",
+      "definition": "Perubahan persentase IHK pada suatu bulan dibandingkan bulan yang sama pada tahun sebelumnya.",
+      "source": "BPS"
+    },
+
+    {
+      "term": "Produk Domestik Regional Bruto (PDRB)",
+      "category": "PDRB",
+      "definition": "Nilai tambah barang dan jasa yang dihasilkan seluruh unit usaha di suatu wilayah dalam periode tertentu.",
+      "source": "BPS"
+    },
+    {
+      "term": "PDRB Atas Dasar Harga Berlaku (ADHB)",
+      "category": "PDRB",
+      "definition": "Nilai PDRB yang dihitung menggunakan harga yang berlaku pada periode penghitungan (harga berjalan).",
+      "source": "BPS"
+    },
+    {
+      "term": "PDRB Atas Dasar Harga Konstan (ADHK)",
+      "category": "PDRB",
+      "definition": "Nilai PDRB yang dihitung menggunakan harga pada tahun dasar tertentu, digunakan untuk melihat pertumbuhan ekonomi riil.",
+      "source": "BPS"
+    },
+    {
+      "term": "Pertumbuhan Ekonomi",
+      "category": "PDRB",
+      "definition": "Perkembangan produksi barang dan jasa pada suatu wilayah dibandingkan periode sebelumnya, umumnya dihitung berdasarkan PDRB ADHK.",
+      "source": "BPS"
+    },
+    {
+      "term": "Lapangan Usaha",
+      "category": "PDRB",
+      "definition": "Kelompok kegiatan ekonomi berdasarkan jenis usaha/industri (misalnya pertanian, industri pengolahan, perdagangan, jasa, dan lain-lain) dalam penyusunan PDRB.",
+      "source": "BPS"
+    }
+  ]
+}
