@@ -4,213 +4,319 @@
   "updated_at": "2026-01-21",
   "items": [
     {
+      "id": "kependudukan_jumlah_penduduk",
       "term": "Jumlah Penduduk",
+      "theme_key": "kependudukan",
       "category": "Kependudukan",
       "definition": "Banyaknya penduduk yang berdomisili di suatu wilayah pada waktu tertentu (umumnya dinyatakan dalam jiwa).",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["penduduk", "jiwa", "populasi"],
+      "related_indicators": ["Jumlah Penduduk"]
     },
     {
+      "id": "kependudukan_lpp",
       "term": "Laju Pertumbuhan Penduduk (LPP)",
+      "theme_key": "kependudukan",
       "category": "Kependudukan",
       "definition": "Tingkat pertambahan jumlah penduduk per tahun dalam jangka waktu tertentu, dinyatakan dalam persentase. Umumnya dihitung dari perubahan jumlah penduduk antarperiode.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["pertumbuhan", "penduduk", "lpp"],
+      "related_indicators": ["Laju Pertumbuhan Penduduk"]
     },
     {
+      "id": "kependudukan_kepadatan",
       "term": "Kepadatan Penduduk",
+      "theme_key": "kependudukan",
       "category": "Kependudukan",
       "definition": "Rata-rata jumlah penduduk per satuan luas wilayah tertentu (jiwa per km²).",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["kepadatan", "km2", "jiwa"],
+      "related_indicators": ["Kepadatan Penduduk"]
     },
     {
+      "id": "kependudukan_rjk",
       "term": "Rasio Jenis Kelamin",
+      "theme_key": "kependudukan",
       "category": "Kependudukan",
       "definition": "Perbandingan banyaknya penduduk laki-laki terhadap penduduk perempuan, biasanya dinyatakan per 100 penduduk perempuan.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["rasio", "jenis kelamin", "sex ratio"],
+      "related_indicators": ["Rasio Jenis Kelamin"]
     },
     {
+      "id": "kependudukan_dependency_ratio",
       "term": "Angka Beban Ketergantungan (Dependency Ratio)",
+      "theme_key": "kependudukan",
       "category": "Kependudukan",
       "definition": "Perbandingan penduduk usia nonproduktif (umumnya 0–14 tahun dan 65+ tahun) terhadap penduduk usia produktif (15–64 tahun), biasanya dinyatakan per 100 penduduk usia produktif.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["beban ketergantungan", "dependency ratio", "produktif"],
+      "related_indicators": ["Angka Beban Ketergantungan"]
     },
 
     {
+      "id": "ipm_ipm",
       "term": "Indeks Pembangunan Manusia (IPM)",
+      "theme_key": "ipm",
       "category": "IPM",
       "definition": "Indeks komposit untuk mengukur capaian pembangunan manusia dari tiga dimensi dasar: umur panjang dan hidup sehat, pengetahuan, dan standar hidup layak. Nilai IPM berada pada skala 0–100.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["ipm", "pembangunan manusia", "human development"],
+      "related_indicators": ["Indeks Pembangunan Manusia (IPM)", "IPM"]
     },
     {
+      "id": "ipm_uhh",
       "term": "Umur Harapan Hidup saat Lahir (UHH/AHH)",
+      "theme_key": "ipm",
       "category": "IPM",
       "definition": "Rata-rata perkiraan banyak tahun yang dapat ditempuh oleh seseorang sejak lahir. Digunakan sebagai indikator kesehatan dalam penyusunan IPM.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["uhh", "ahh", "harapan hidup", "kesehatan"],
+      "related_indicators": ["Umur Harapan Hidup", "UHH", "AHH"]
     },
     {
+      "id": "ipm_hls",
       "term": "Harapan Lama Sekolah (HLS)",
+      "theme_key": "ipm",
       "category": "IPM",
       "definition": "Lamanya sekolah (dalam tahun) yang diharapkan akan dirasakan oleh anak pada umur tertentu di masa mendatang. Digunakan sebagai indikator pendidikan dalam penyusunan IPM.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["hls", "pendidikan", "harapan sekolah"],
+      "related_indicators": ["Harapan Lama Sekolah", "HLS"]
     },
     {
+      "id": "ipm_rls",
       "term": "Rata-rata Lama Sekolah (RLS)",
+      "theme_key": "ipm",
       "category": "IPM",
       "definition": "Jumlah tahun pendidikan formal yang telah dijalani oleh penduduk (umumnya umur 15 tahun ke atas). Digunakan sebagai indikator pendidikan dalam penyusunan IPM.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["rls", "pendidikan", "lama sekolah"],
+      "related_indicators": ["Rata-rata Lama Sekolah", "RLS"]
     },
     {
+      "id": "ipm_pengeluaran_riil",
       "term": "Pengeluaran Riil per Kapita Disesuaikan",
+      "theme_key": "ipm",
       "category": "IPM",
       "definition": "Ukuran standar hidup layak yang digunakan dalam IPM, menggambarkan kemampuan daya beli masyarakat setelah penyesuaian tertentu.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["pengeluaran", "daya beli", "per kapita"],
+      "related_indicators": ["Pengeluaran Riil per Kapita Disesuaikan"]
     },
 
     {
+      "id": "naker_penduduk_usia_kerja",
       "term": "Penduduk Usia Kerja",
+      "theme_key": "ketenagakerjaan",
       "category": "Ketenagakerjaan",
       "definition": "Penduduk yang termasuk kelompok usia kerja (umumnya 15 tahun ke atas) yang menjadi dasar perhitungan indikator ketenagakerjaan.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["usia kerja", "tenaga kerja"],
+      "related_indicators": ["Penduduk Usia Kerja"]
     },
     {
+      "id": "naker_angkatan_kerja",
       "term": "Angkatan Kerja",
+      "theme_key": "ketenagakerjaan",
       "category": "Ketenagakerjaan",
       "definition": "Penduduk usia kerja yang bekerja atau pengangguran.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["angkatan kerja", "labor force"],
+      "related_indicators": ["Angkatan Kerja"]
     },
     {
+      "id": "naker_bukan_angkatan_kerja",
       "term": "Bukan Angkatan Kerja",
+      "theme_key": "ketenagakerjaan",
       "category": "Ketenagakerjaan",
       "definition": "Penduduk usia kerja yang tidak bekerja dan tidak termasuk pengangguran, misalnya sekolah, mengurus rumah tangga, dan kegiatan lainnya.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["bukan angkatan kerja", "sekolah", "irt"],
+      "related_indicators": ["Bukan Angkatan Kerja"]
     },
     {
-      "term": "Bekerja",
-      "category": "Ketenagakerjaan",
-      "definition": "Kegiatan melakukan pekerjaan untuk memperoleh atau membantu memperoleh penghasilan/keuntungan (mengacu konsep survei ketenagakerjaan).",
-      "source": "BPS"
-    },
-    {
-      "term": "Pengangguran",
-      "category": "Ketenagakerjaan",
-      "definition": "Penduduk yang tidak bekerja dan sedang mencari pekerjaan atau mempersiapkan usaha, atau sudah diterima bekerja tetapi belum mulai bekerja.",
-      "source": "BPS"
-    },
-    {
+      "id": "naker_tpt",
       "term": "Tingkat Pengangguran Terbuka (TPT)",
+      "theme_key": "ketenagakerjaan",
       "category": "Ketenagakerjaan",
       "definition": "Persentase jumlah pengangguran terhadap jumlah angkatan kerja.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["tpt", "pengangguran"],
+      "related_indicators": ["TPT", "Tingkat Pengangguran Terbuka"]
     },
     {
+      "id": "naker_tpak",
       "term": "Tingkat Partisipasi Angkatan Kerja (TPAK)",
+      "theme_key": "ketenagakerjaan",
       "category": "Ketenagakerjaan",
       "definition": "Persentase jumlah angkatan kerja terhadap jumlah penduduk usia kerja.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["tpak", "partisipasi"],
+      "related_indicators": ["TPAK", "Tingkat Partisipasi Angkatan Kerja"]
     },
     {
+      "id": "naker_setengah_pengangguran",
       "term": "Setengah Pengangguran",
+      "theme_key": "ketenagakerjaan",
       "category": "Ketenagakerjaan",
       "definition": "Penduduk bekerja dengan jam kerja di bawah jam kerja normal dan masih bersedia menerima pekerjaan tambahan.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["setengah pengangguran", "jam kerja"],
+      "related_indicators": ["Setengah Pengangguran"]
     },
 
     {
+      "id": "miskin_penduduk_miskin",
       "term": "Penduduk Miskin",
+      "theme_key": "kemiskinan",
       "category": "Kemiskinan",
       "definition": "Penduduk yang memiliki rata-rata pengeluaran per kapita per bulan di bawah garis kemiskinan.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["kemiskinan", "penduduk miskin"],
+      "related_indicators": ["Penduduk Miskin", "Jumlah Penduduk Miskin"]
     },
     {
+      "id": "miskin_garis_kemiskinan",
       "term": "Garis Kemiskinan",
+      "theme_key": "kemiskinan",
       "category": "Kemiskinan",
       "definition": "Nilai rupiah minimum untuk memenuhi kebutuhan dasar makanan dan bukan makanan. Penduduk dengan pengeluaran di bawah nilai ini dikategorikan miskin.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["gk", "garis kemiskinan"],
+      "related_indicators": ["Garis Kemiskinan"]
     },
     {
+      "id": "miskin_p0",
       "term": "Persentase Penduduk Miskin (P0)",
+      "theme_key": "kemiskinan",
       "category": "Kemiskinan",
       "definition": "Proporsi penduduk yang berada di bawah garis kemiskinan.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["p0", "headcount index"],
+      "related_indicators": ["Persentase Penduduk Miskin", "P0"]
     },
     {
-      "term": "Jumlah Penduduk Miskin",
-      "category": "Kemiskinan",
-      "definition": "Banyaknya penduduk yang berada di bawah garis kemiskinan.",
-      "source": "BPS"
-    },
-    {
+      "id": "miskin_p1",
       "term": "Indeks Kedalaman Kemiskinan (P1)",
+      "theme_key": "kemiskinan",
       "category": "Kemiskinan",
       "definition": "Ukuran rata-rata kesenjangan pengeluaran penduduk miskin terhadap garis kemiskinan. Nilai lebih besar menunjukkan rata-rata penduduk miskin semakin jauh dari garis kemiskinan.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["p1", "poverty gap"],
+      "related_indicators": ["Indeks Kedalaman Kemiskinan", "P1"]
     },
     {
+      "id": "miskin_p2",
       "term": "Indeks Keparahan Kemiskinan (P2)",
+      "theme_key": "kemiskinan",
       "category": "Kemiskinan",
       "definition": "Ukuran ketimpangan pengeluaran di antara penduduk miskin. Nilai lebih besar menunjukkan ketimpangan pengeluaran di kelompok penduduk miskin semakin tinggi.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["p2", "poverty severity"],
+      "related_indicators": ["Indeks Keparahan Kemiskinan", "P2"]
     },
 
     {
+      "id": "inflasi_ihk",
       "term": "Indeks Harga Konsumen (IHK)",
+      "theme_key": "inflasi",
       "category": "Inflasi",
       "definition": "Indeks yang mengukur rata-rata perubahan harga dari sekumpulan barang dan jasa yang dikonsumsi rumah tangga pada periode tertentu.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["ihk", "harga konsumen"],
+      "related_indicators": ["Indeks Harga Konsumen", "IHK"]
     },
     {
+      "id": "inflasi_inflasi",
       "term": "Inflasi",
+      "theme_key": "inflasi",
       "category": "Inflasi",
       "definition": "Kenaikan persentase Indeks Harga Konsumen (IHK) pada suatu periode. Inflasi menunjukkan kenaikan harga secara umum.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["inflasi"],
+      "related_indicators": ["Inflasi"]
     },
     {
+      "id": "inflasi_deflasi",
       "term": "Deflasi",
+      "theme_key": "inflasi",
       "category": "Inflasi",
       "definition": "Penurunan persentase Indeks Harga Konsumen (IHK) pada suatu periode.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["deflasi"],
+      "related_indicators": ["Deflasi"]
     },
     {
+      "id": "inflasi_mtm",
       "term": "Inflasi Bulanan (m-to-m)",
+      "theme_key": "inflasi",
       "category": "Inflasi",
       "definition": "Perubahan persentase IHK pada suatu bulan dibandingkan bulan sebelumnya.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["mtm", "bulanan"],
+      "related_indicators": ["Inflasi Bulanan", "Inflasi (m-to-m)"]
     },
     {
+      "id": "inflasi_yoy",
       "term": "Inflasi Tahunan (y-on-y)",
+      "theme_key": "inflasi",
       "category": "Inflasi",
       "definition": "Perubahan persentase IHK pada suatu bulan dibandingkan bulan yang sama pada tahun sebelumnya.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["yoy", "tahunan"],
+      "related_indicators": ["Inflasi Tahunan", "Inflasi (y-on-y)"]
     },
 
     {
+      "id": "pdrb_pdrb",
       "term": "Produk Domestik Regional Bruto (PDRB)",
+      "theme_key": "pdrb",
       "category": "PDRB",
       "definition": "Nilai tambah barang dan jasa yang dihasilkan seluruh unit usaha di suatu wilayah dalam periode tertentu.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["pdrb", "nilai tambah", "ekonomi daerah"],
+      "related_indicators": ["PDRB"]
     },
     {
+      "id": "pdrb_adhb",
       "term": "PDRB Atas Dasar Harga Berlaku (ADHB)",
+      "theme_key": "pdrb",
       "category": "PDRB",
       "definition": "Nilai PDRB yang dihitung menggunakan harga yang berlaku pada periode penghitungan (harga berjalan).",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["adhb", "nominal", "harga berlaku"],
+      "related_indicators": ["PDRB ADHB", "PDRB (ADHB)"]
     },
     {
+      "id": "pdrb_adhk",
       "term": "PDRB Atas Dasar Harga Konstan (ADHK)",
+      "theme_key": "pdrb",
       "category": "PDRB",
       "definition": "Nilai PDRB yang dihitung menggunakan harga pada tahun dasar tertentu, digunakan untuk melihat pertumbuhan ekonomi riil.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["adhk", "riil", "harga konstan"],
+      "related_indicators": ["PDRB ADHK", "PDRB (ADHK)"]
     },
     {
+      "id": "pdrb_pertumbuhan",
       "term": "Pertumbuhan Ekonomi",
+      "theme_key": "pdrb",
       "category": "PDRB",
       "definition": "Perkembangan produksi barang dan jasa pada suatu wilayah dibandingkan periode sebelumnya, umumnya dihitung berdasarkan PDRB ADHK.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["pertumbuhan", "ekonomi", "laju pertumbuhan"],
+      "related_indicators": ["Pertumbuhan Ekonomi", "Laju Pertumbuhan PDRB"]
     },
     {
+      "id": "pdrb_lapangan_usaha",
       "term": "Lapangan Usaha",
+      "theme_key": "pdrb",
       "category": "PDRB",
       "definition": "Kelompok kegiatan ekonomi berdasarkan jenis usaha/industri (misalnya pertanian, industri pengolahan, perdagangan, jasa, dan lain-lain) dalam penyusunan PDRB.",
-      "source": "BPS"
+      "source": "BPS",
+      "tags": ["lapangan usaha", "sektor", "industri"],
+      "related_indicators": []
     }
   ]
 }
