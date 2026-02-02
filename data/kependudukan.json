@@ -8,7 +8,7 @@
       "unit": "Ribu Jiwa",
       "period_type": "yearly",
       "year": 2010,
-      "value": 2.635
+      "value": 2635.0
     },
     {
       "theme": "Kependudukan",
@@ -136,7 +136,7 @@
       "unit": "Ribu Jiwa",
       "period_type": "yearly",
       "year": 2010,
-      "value": 1.431
+      "value": 1431.0
     },
     {
       "theme": "Kependudukan",
@@ -264,7 +264,7 @@
       "unit": "Ribu Jiwa",
       "period_type": "yearly",
       "year": 2010,
-      "value": 1.204
+      "value": 1204.0
     },
     {
       "theme": "Kependudukan",
