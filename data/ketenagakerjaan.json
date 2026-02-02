@@ -292,7 +292,7 @@
     },
     {
       "theme": "Ketenagakerjaan",
-      "indicator": "- Bekerja",
+      "indicator": "Bekerja",
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2022,
@@ -300,7 +300,7 @@
     },
     {
       "theme": "Ketenagakerjaan",
-      "indicator": "- Bekerja",
+      "indicator": "Bekerja",
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2023,
@@ -308,7 +308,7 @@
     },
     {
       "theme": "Ketenagakerjaan",
-      "indicator": "- Bekerja",
+      "indicator": "Bekerja",
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2024,
@@ -316,7 +316,7 @@
     },
     {
       "theme": "Ketenagakerjaan",
-      "indicator": "- Bekerja",
+      "indicator": "Bekerja",
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2025,
@@ -324,7 +324,7 @@
     },
     {
       "theme": "Ketenagakerjaan",
-      "indicator": "- Pengangguran",
+      "indicator": "Pengangguran",
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2022,
@@ -332,7 +332,7 @@
     },
     {
       "theme": "Ketenagakerjaan",
-      "indicator": "- Pengangguran",
+      "indicator": "Pengangguran",
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2023,
@@ -340,7 +340,7 @@
     },
     {
       "theme": "Ketenagakerjaan",
-      "indicator": "- Pengangguran",
+      "indicator": "Pengangguran",
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2024,
@@ -348,7 +348,7 @@
     },
     {
       "theme": "Ketenagakerjaan",
-      "indicator": "- Pengangguran",
+      "indicator": "Pengangguran",
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2025,
