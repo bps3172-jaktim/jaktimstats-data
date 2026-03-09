@@ -239,6 +239,22 @@
       "indicator": "Penduduk Usia Kerja (PUK)",
       "unit": "Orang",
       "period_type": "yearly",
+      "year": 2020,
+      "value": 2236887.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Penduduk Usia Kerja (PUK)",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 2251875.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Penduduk Usia Kerja (PUK)",
+      "unit": "Orang",
+      "period_type": "yearly",
       "year": 2022,
       "value": 2265063.0
     },
@@ -271,9 +287,26 @@
       "indicator": "Angkatan Kerja",
       "unit": "Orang",
       "period_type": "yearly",
+      "year": 2020,
+      "value": 2386492.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 1370294.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
       "year": 2022,
       "value": 1387533.0
     },
+    
     {
       "theme": "Ketenagakerjaan",
       "indicator": "Angkatan Kerja",
@@ -289,6 +322,30 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 1548679.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 1552037.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Bekerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2020,
+      "value": 2257752.0
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Bekerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 1257540.0
     },
     {
       "theme": "Ketenagakerjaan",
@@ -327,6 +384,22 @@
       "indicator": "Pengangguran",
       "unit": "Orang",
       "period_type": "yearly",
+      "year": 2020,
+      "value": 128.739
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Pengangguran",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 112.754
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Pengangguran",
+      "unit": "Orang",
+      "period_type": "yearly",
       "year": 2022,
       "value": 116.41
     },
@@ -359,6 +432,22 @@
       "indicator": "Bukan Angkatan Kerja",
       "unit": "Orang",
       "period_type": "yearly",
+      "year": 2020,
+      "value": 850.396
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Bukan Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2021,
+      "value": 881.581
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Bukan Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
       "year": 2022,
       "value": 877.53
     },
@@ -377,6 +466,14 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 852.688
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Bukan Angkatan Kerja",
+      "unit": "Orang",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 872.961
     }
   ],
   "notes": []
