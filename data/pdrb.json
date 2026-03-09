@@ -4,22 +4,6 @@
   "series": [
     {
       "theme": "PDRB",
-      "indicator": "PDRB",
-      "unit": "",
-      "period_type": "yearly",
-      "year": 2023,
-      "value": 100.0
-    },
-    {
-      "theme": "PDRB",
-      "indicator": "PDRB",
-      "unit": "",
-      "period_type": "yearly",
-      "year": 2024,
-      "value": 100.0
-    },
-    {
-      "theme": "PDRB",
       "indicator": "LPE",
       "unit": "Persen",
       "period_type": "yearly",
@@ -105,6 +89,14 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 4.49
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "LPE",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 5.17
     },
     {
       "theme": "PDRB",
@@ -224,6 +216,14 @@
       "unit": "Persen",
       "period_type": "yearly",
       "year": 2024,
+      "value": 0.07
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "A. Pertanian, Kehutanan, dan Perikanan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
       "value": 0.07
     },
     {
@@ -348,6 +348,14 @@
     },
     {
       "theme": "PDRB",
+      "indicator": "C. Industri Pengolahan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 26.25
+    },
+    {
+      "theme": "PDRB",
       "indicator": "D. Pengadaan Listrik dan Gas",
       "unit": "Persen",
       "period_type": "yearly",
@@ -465,6 +473,14 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 0.24
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "D. Pengadaan Listrik dan Gas",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 0.17
     },
     {
       "theme": "PDRB",
@@ -588,6 +604,14 @@
     },
     {
       "theme": "PDRB",
+      "indicator": "E. Pengadaan Air, Pengelolaan Sampah, Limbah dan Daur Ulang",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 0.04
+    },
+    {
+      "theme": "PDRB",
       "indicator": "F. Konstruksi",
       "unit": "Persen",
       "period_type": "yearly",
@@ -697,6 +721,14 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 10.34
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "F. Konstruksi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 10.05
     },
     {
       "theme": "PDRB",
@@ -810,6 +842,14 @@
       "year": 2024,
       "value": 18.21
     },
+     {
+      "theme": "PDRB",
+      "indicator": "G. Perdagangan Besar dan Eceran; Reparasi Mobil dan Sepeda Motor",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 18.30
+    },
     {
       "theme": "PDRB",
       "indicator": "H. Transportasi dan Pergudangan",
@@ -913,6 +953,14 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 6.82
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "H. Transportasi dan Pergudangan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 7.08
     },
     {
       "theme": "PDRB",
@@ -1036,6 +1084,14 @@
     },
     {
       "theme": "PDRB",
+      "indicator": "I. Penyediaan Akomodasi dan Makan Minum",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 5.60
+    },
+    {
+      "theme": "PDRB",
       "indicator": "J. Informasi dan Komunikasi",
       "unit": "Persen",
       "period_type": "yearly",
@@ -1145,6 +1201,14 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 5.57
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "J. Informasi dan Komunikasi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 5.60
     },
     {
       "theme": "PDRB",
@@ -1264,7 +1328,15 @@
       "unit": "Persen",
       "period_type": "yearly",
       "year": 2024,
-      "value": 1.7
+      "value": 1.70
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "K.Jasa Keuangan dan Asuransi",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 1.67
     },
     {
       "theme": "PDRB",
@@ -1361,6 +1433,14 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 4.53
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "L. Real Estat",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 4.32
     },
     {
       "theme": "PDRB",
@@ -1476,6 +1556,14 @@
     },
     {
       "theme": "PDRB",
+      "indicator": "M,N Jasa Perusahaan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 5.95
+    },
+    {
+      "theme": "PDRB",
       "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
       "unit": "Persen",
       "period_type": "yearly",
@@ -1569,6 +1657,14 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 3.26
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "O. Administrasi Pemerintahan, Pertahanan dan Jaminan Sosial Wajib",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 3.25
     },
     {
       "theme": "PDRB",
@@ -1681,6 +1777,14 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 6.13
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "P. Jasa Pendidikan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 6.43
     },
     {
       "theme": "PDRB",
@@ -1804,6 +1908,14 @@
     },
     {
       "theme": "PDRB",
+      "indicator": "Q. Jasa Kesehatan dan Kegiatan Sosial",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 2.31
+    },
+    {
+      "theme": "PDRB",
       "indicator": "R,S,TU Jasa lainnya",
       "unit": "Persen",
       "period_type": "yearly",
@@ -1897,6 +2009,14 @@
       "period_type": "yearly",
       "year": 2024,
       "value": 3.32
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "R,S,TU Jasa lainnya",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
+      "value": 3.39
     },
     {
       "theme": "PDRB",
@@ -2016,6 +2136,14 @@
       "unit": "Persen",
       "period_type": "yearly",
       "year": 2024,
+      "value": 100.0
+    },
+    {
+      "theme": "PDRB",
+      "indicator": "PDRB",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2025,
       "value": 100.0
     }
   ],
