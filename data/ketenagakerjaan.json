@@ -7,6 +7,14 @@
       "indicator": "Tingkat Pengangguran Terbuka (TPT)",
       "unit": "Persen",
       "period_type": "yearly",
+      "year": 2010,
+      "value": 13.03
+    },
+    {
+      "theme": "Ketenagakerjaan",
+      "indicator": "Tingkat Pengangguran Terbuka (TPT)",
+      "unit": "Persen",
+      "period_type": "yearly",
       "year": 2011,
       "value": 10.95
     },
