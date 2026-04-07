@@ -168,7 +168,7 @@
       "unit": "Tahun",
       "period_type": "yearly",
       "year": 2014,
-      "value": 74.0
+      "value": 74
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -296,7 +296,7 @@
       "unit": "Tahun",
       "period_type": "yearly",
       "year": 2014,
-      "value": 13.06
+      "value": 13.6
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -304,7 +304,7 @@
       "unit": "Tahun",
       "period_type": "yearly",
       "year": 2015,
-      "value": 13.08
+      "value": 13.8
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -368,7 +368,7 @@
       "unit": "Tahun",
       "period_type": "yearly",
       "year": 2023,
-      "value": 14.06
+      "value": 14.6
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -376,7 +376,7 @@
       "unit": "Tahun",
       "period_type": "yearly",
       "year": 2024,
-      "value": 14.07
+      "value": 14.7
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -401,6 +401,14 @@
       "period_type": "yearly",
       "year": 2011,
       "value": 10.93
+    },
+    {
+      "theme": "Indeks Pembangunan Manusia",
+      "indicator": "RLS",
+      "unit": "Tahun",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 11.8
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -512,7 +520,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2010,
-      "value": 14.96
+      "value": 14960
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -520,7 +528,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2011,
-      "value": 15.563
+      "value": 15563
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -528,7 +536,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2012,
-      "value": 16.101
+      "value": 16101
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -536,7 +544,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2013,
-      "value": 16.181
+      "value": 16181
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -544,7 +552,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2014,
-      "value": 16.248
+      "value": 16248
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -552,7 +560,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2015,
-      "value": 16.455
+      "value": 16455
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -560,7 +568,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2016,
-      "value": 16.733
+      "value": 16733
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -568,7 +576,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2017,
-      "value": 17.007
+      "value": 17007
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -576,7 +584,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2018,
-      "value": 17.339
+      "value": 17339
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -584,7 +592,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2019,
-      "value": 17.662
+      "value": 17662
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -592,7 +600,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2020,
-      "value": 17.438
+      "value": 17438
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -600,7 +608,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2021,
-      "value": 17.733
+      "value": 17733
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -608,7 +616,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2022,
-      "value": 18.199
+      "value": 18199
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -616,7 +624,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2023,
-      "value": 18.712
+      "value": 18712
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -624,7 +632,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2024,
-      "value": 19.193
+      "value": 19193
     },
     {
       "theme": "Indeks Pembangunan Manusia",
@@ -632,7 +640,7 @@
       "unit": "Rupiah",
       "period_type": "yearly",
       "year": 2025,
-      "value": 19.824
+      "value": 19824
     }
   ],
   "notes": [
