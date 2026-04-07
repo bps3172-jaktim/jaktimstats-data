@@ -143,6 +143,46 @@
       "indicator": "Angka Kemiskinan",
       "unit": "Persen",
       "period_type": "yearly",
+      "year": 2011,
+      "value": 3.6
+    },
+    {
+      "theme": "Kemiskinan",
+      "indicator": "Angka Kemiskinan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2012,
+      "value": 3.12
+    },
+    {
+      "theme": "Kemiskinan",
+      "indicator": "Angka Kemiskinan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2013,
+      "value": 3.1
+    },
+    {
+      "theme": "Kemiskinan",
+      "indicator": "Angka Kemiskinan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2014,
+      "value": 3.12
+    },
+    {
+      "theme": "Kemiskinan",
+      "indicator": "Angka Kemiskinan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2015,
+      "value": 3.1
+    },
+    {
+      "theme": "Kemiskinan",
+      "indicator": "Angka Kemiskinan",
+      "unit": "Persen",
+      "period_type": "yearly",
       "year": 2016,
       "value": 3.19
     },
@@ -161,6 +201,14 @@
       "period_type": "yearly",
       "year": 2018,
       "value": 3.14
+    },
+    {
+      "theme": "Kemiskinan",
+      "indicator": "Angka Kemiskinan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2019,
+      "value": 3.12
     },
     {
       "theme": "Kemiskinan",
@@ -193,6 +241,14 @@
       "period_type": "yearly",
       "year": 2023,
       "value": 4.2
+    },
+    {
+      "theme": "Kemiskinan",
+      "indicator": "Angka Kemiskinan",
+      "unit": "Persen",
+      "period_type": "yearly",
+      "year": 2024,
+      "value": 4.9
     },
     {
       "theme": "Kemiskinan",
@@ -464,7 +520,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2010,
-      "value": 325.98
+      "value": 325980
     },
     {
       "theme": "Kemiskinan",
@@ -472,7 +528,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2011,
-      "value": 352.614
+      "value": 352614
     },
     {
       "theme": "Kemiskinan",
@@ -480,7 +536,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2012,
-      "value": 366.674
+      "value": 366674
     },
     {
       "theme": "Kemiskinan",
@@ -488,7 +544,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2013,
-      "value": 381.984
+      "value": 381984
     },
     {
       "theme": "Kemiskinan",
@@ -496,7 +552,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2014,
-      "value": 391.205
+      "value": 391205
     },
     {
       "theme": "Kemiskinan",
@@ -504,7 +560,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2015,
-      "value": 412.515
+      "value": 412515
     },
     {
       "theme": "Kemiskinan",
@@ -512,7 +568,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2016,
-      "value": 433.405
+      "value": 433405
     },
     {
       "theme": "Kemiskinan",
@@ -520,7 +576,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2017,
-      "value": 455.584
+      "value": 455584
     },
     {
       "theme": "Kemiskinan",
@@ -528,7 +584,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2018,
-      "value": 502.152
+      "value": 502152
     },
     {
       "theme": "Kemiskinan",
@@ -536,7 +592,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2019,
-      "value": 539.51
+      "value": 539510
     },
     {
       "theme": "Kemiskinan",
@@ -544,7 +600,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2020,
-      "value": 581.954
+      "value": 581954
     },
     {
       "theme": "Kemiskinan",
@@ -552,7 +608,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2021,
-      "value": 594.849
+      "value": 594849
     },
     {
       "theme": "Kemiskinan",
@@ -560,7 +616,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2022,
-      "value": 630.842
+      "value": 630842
     },
     {
       "theme": "Kemiskinan",
@@ -568,7 +624,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2023,
-      "value": 669.713
+      "value": 669713
     },
     {
       "theme": "Kemiskinan",
@@ -576,7 +632,7 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2024,
-      "value": 697.472
+      "value": 697472
     },
     {
       "theme": "Kemiskinan",
@@ -584,12 +640,12 @@
       "unit": "(Rp/ kapita/ Bulan)",
       "period_type": "yearly",
       "year": 2025,
-      "value": 720.813
+      "value": 720813
     },
     {
       "theme": "Kemiskinan",
       "indicator": "Gini Ratio",
-      "unit": "",
+      "unit": null,
       "period_type": "yearly",
       "year": 2018,
       "value": 0.4
@@ -597,7 +653,7 @@
     {
       "theme": "Kemiskinan",
       "indicator": "Gini Ratio",
-      "unit": "",
+      "unit": null,
       "period_type": "yearly",
       "year": 2019,
       "value": 0.38
@@ -605,7 +661,7 @@
     {
       "theme": "Kemiskinan",
       "indicator": "Gini Ratio",
-      "unit": "",
+      "unit": null,
       "period_type": "yearly",
       "year": 2020,
       "value": 0.36
@@ -613,7 +669,7 @@
     {
       "theme": "Kemiskinan",
       "indicator": "Gini Ratio",
-      "unit": "",
+      "unit": null,
       "period_type": "yearly",
       "year": 2021,
       "value": 0.37
@@ -621,7 +677,7 @@
     {
       "theme": "Kemiskinan",
       "indicator": "Gini Ratio",
-      "unit": "",
+      "unit": null,
       "period_type": "yearly",
       "year": 2022,
       "value": 0.37
@@ -629,7 +685,7 @@
     {
       "theme": "Kemiskinan",
       "indicator": "Gini Ratio",
-      "unit": "",
+      "unit": null,
       "period_type": "yearly",
       "year": 2023,
       "value": 0.42
