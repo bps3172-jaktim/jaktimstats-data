@@ -8,7 +8,7 @@
       "unit": "Persen",
       "period_type": "yearly",
       "year": 2010,
-      "value": 13.03
+      "value": 13.3
     },
     {
       "theme": "Ketenagakerjaan",
@@ -240,7 +240,7 @@
       "unit": "Persen",
       "period_type": "yearly",
       "year": 2025,
-      "value": 64.0
+      "value": 64
     },
     {
       "theme": "Ketenagakerjaan",
@@ -248,7 +248,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2020,
-      "value": 2236887.0
+      "value": 2236887
     },
     {
       "theme": "Ketenagakerjaan",
@@ -256,7 +256,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2021,
-      "value": 2251875.0
+      "value": 2251875
     },
     {
       "theme": "Ketenagakerjaan",
@@ -264,7 +264,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2022,
-      "value": 2265063.0
+      "value": 2265063
     },
     {
       "theme": "Ketenagakerjaan",
@@ -272,7 +272,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2023,
-      "value": 2387325.0
+      "value": 2387325
     },
     {
       "theme": "Ketenagakerjaan",
@@ -280,7 +280,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2024,
-      "value": 2401367.0
+      "value": 2401367
     },
     {
       "theme": "Ketenagakerjaan",
@@ -288,7 +288,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2025,
-      "value": 2425000.0
+      "value": 2424998
     },
     {
       "theme": "Ketenagakerjaan",
@@ -296,7 +296,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2020,
-      "value": 2386492.0
+      "value": 2386492
     },
     {
       "theme": "Ketenagakerjaan",
@@ -304,7 +304,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2021,
-      "value": 1370294.0
+      "value": 1370294
     },
     {
       "theme": "Ketenagakerjaan",
@@ -312,16 +312,15 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2022,
-      "value": 1387533.0
+      "value": 1387533
     },
-    
     {
       "theme": "Ketenagakerjaan",
       "indicator": "Angkatan Kerja",
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2023,
-      "value": 1554276.0
+      "value": 1554276
     },
     {
       "theme": "Ketenagakerjaan",
@@ -329,7 +328,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2024,
-      "value": 1548679.0
+      "value": 1548679
     },
     {
       "theme": "Ketenagakerjaan",
@@ -337,7 +336,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2025,
-      "value": 1552037.0
+      "value": 1552037
     },
     {
       "theme": "Ketenagakerjaan",
@@ -345,7 +344,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2020,
-      "value": 2257752.0
+      "value": 2257752
     },
     {
       "theme": "Ketenagakerjaan",
@@ -353,7 +352,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2021,
-      "value": 1257540.0
+      "value": 1257540
     },
     {
       "theme": "Ketenagakerjaan",
@@ -361,7 +360,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2022,
-      "value": 1271123.0
+      "value": 1271123
     },
     {
       "theme": "Ketenagakerjaan",
@@ -369,7 +368,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2023,
-      "value": 1441786.0
+      "value": 1441786
     },
     {
       "theme": "Ketenagakerjaan",
@@ -377,7 +376,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2024,
-      "value": 1441119.0
+      "value": 1441119
     },
     {
       "theme": "Ketenagakerjaan",
@@ -385,7 +384,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2025,
-      "value": 1446879.0
+      "value": 1446879
     },
     {
       "theme": "Ketenagakerjaan",
@@ -393,7 +392,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2020,
-      "value": 128.739
+      "value": 128739
     },
     {
       "theme": "Ketenagakerjaan",
@@ -401,7 +400,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2021,
-      "value": 112.754
+      "value": 112754
     },
     {
       "theme": "Ketenagakerjaan",
@@ -409,7 +408,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2022,
-      "value": 116.41
+      "value": 116410
     },
     {
       "theme": "Ketenagakerjaan",
@@ -417,7 +416,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2023,
-      "value": 112.49
+      "value": 112490
     },
     {
       "theme": "Ketenagakerjaan",
@@ -425,7 +424,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2024,
-      "value": 107.56
+      "value": 107560
     },
     {
       "theme": "Ketenagakerjaan",
@@ -433,7 +432,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2025,
-      "value": 105.16
+      "value": 105158
     },
     {
       "theme": "Ketenagakerjaan",
@@ -441,7 +440,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2020,
-      "value": 850.396
+      "value": 850396
     },
     {
       "theme": "Ketenagakerjaan",
@@ -449,7 +448,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2021,
-      "value": 881.581
+      "value": 881581
     },
     {
       "theme": "Ketenagakerjaan",
@@ -457,7 +456,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2022,
-      "value": 877.53
+      "value": 877530
     },
     {
       "theme": "Ketenagakerjaan",
@@ -465,7 +464,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2023,
-      "value": 833.049
+      "value": 833049
     },
     {
       "theme": "Ketenagakerjaan",
@@ -473,7 +472,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2024,
-      "value": 852.688
+      "value": 852688
     },
     {
       "theme": "Ketenagakerjaan",
@@ -481,7 +480,7 @@
       "unit": "Orang",
       "period_type": "yearly",
       "year": 2025,
-      "value": 872.961
+      "value": 872961
     }
   ],
   "notes": []
